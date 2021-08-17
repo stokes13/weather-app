@@ -27,10 +27,10 @@ export default function Search() {
                     className='search-bar w-full rounded-md shadow-md px-3 py-1 my-3 cursor-pointer hover:bg-gray-200'
 
                 />
-                <div className="text-2xl text-gray-800 font-semi-bold mt-4">
+                <div className="text-2xl text-gray-600 font-semi-bold mt-4">
 
-                    <h2 className='city'></h2>
-                    <h3 className='state'></h3>
+                    <h2 className='city text-6xl font-bold'></h2>
+                    <h3 className='state text-4xl bold'></h3>
                 </div>
             </div>
 
